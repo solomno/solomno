@@ -10,7 +10,7 @@ jobs:
   deploy:
     defaults:
       run:
-        working-directory: ./themes/hugo-universal-theme
+        working-directory: ./themes/hugo-universal-theme/solomno
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
