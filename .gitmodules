@@ -1,3 +1,6 @@
 [submodule "themes/bigspring-light-hugo"]
 	path = themes/bigspring-light-hugo
 	url = https://github.com/gethugothemes/bigspring-light-hugo.git
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
